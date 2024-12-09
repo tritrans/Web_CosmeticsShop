@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAP_TRINH_WEB\\Nhom06_WebsiteCungCapDichVuHoaTuoi\\Nhom06_WebsiteCungCapDichVuHoaTuoi\\FlowerShop\\FlowerShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B5035F-F617-49E5-80C5-0ACB10D1830D}|FlowerShop\\CosmeticsShop.csproj|d:\\lap_trinh_web\\nhom06_websitecungcapdichvuhoatuoi\\nhom06_websitecungcapdichvuhoatuoi\\flowershop\\flowershop\\flowershop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B5035F-F617-49E5-80C5-0ACB10D1830D}|FlowerShop\\CosmeticsShop.csproj|solutionrelative:flowershop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\LAP_TRINH_WEB\\Nhom06_WebsiteCungCapDichVuHoaTuoi\\Nhom06_WebsiteCungCapDichVuHoaTuoi\\FlowerShop\\FlowerShop\\FlowerShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FlowerShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\LAP_TRINH_WEB\\Nhom06_WebsiteCungCapDichVuHoaTuoi\\Nhom06_WebsiteCungCapDichVuHoaTuoi\\FlowerShop\\FlowerShop\\FlowerShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FlowerShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:19:00.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
